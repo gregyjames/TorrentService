@@ -1,0 +1,8 @@
+
+bin/
+
+obj/Debug/net6.0/
+
+obj/
+
+.DS_Store
